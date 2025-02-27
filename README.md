@@ -46,5 +46,4 @@
 ---
 
 💡 "Passionate about building scalable and efficient applications!"  
-🛠️ Back-End Development: Building APIs and server-side logics!
 🚀 Always learning & growing!
