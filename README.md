@@ -1,4 +1,9 @@
 <h2 align="center">Hi 👋, I'm ikdevv</h2>
+<p align="center">
+  <img src="profile-pic.png" alt="ikdevv" width="150px" style="border-radius: 50%;"/>
+</p>
+
+
 <h3 align="center">🚀 A passionate full-stack developer from Sri Lanka</h3>
 
 ## 🌐 Connect with Me
