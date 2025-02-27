@@ -18,7 +18,7 @@
   </a>
 </p>
 
-<hr width="300px">
+
 
 <h3 align="center"  style="padding-bottom:5px">🚀 Frameworks & Databases</h3>
 
@@ -28,7 +28,7 @@
   </a>
 </p>
 
-<hr width="500px">
+
 
 <h3 align="center" style="padding-bottom:5px">🛠️ Development Tools</h3>
 
@@ -38,7 +38,7 @@
   </a>
 </p>
 
-<hr width="70px">
+
 
 <h3 align="center" style="padding-bottom:5px">🎨 Design Tools</h3>
 
