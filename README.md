@@ -3,11 +3,7 @@
   <img src="profile-pic.png" alt="ikdevv" width="150px" style="border-radius: 50%;"/>
 </p>
 
-
 <h3 align="center">🚀 A passionate full-stack developer from Sri Lanka</h3>
-
-## 🌐 Connect with Me
-
 <p align="center">
   <a href="mailto:your.inboxiroshkavinda@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/irosh-kavinda-ikdevv/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
