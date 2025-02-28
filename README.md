@@ -24,7 +24,7 @@
 
 <p  style="padding-bottom:10px" align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=laravel,django,spring,react,mysql,sqlite,mongodb,tailwind,bootstrap,wordpress,git,github" />
+    <img src="https://skillicons.dev/icons?i=laravel,django,spring,react,mysql,sqlite,mongodb,tailwind,bootstrap,wordpress" />
   </a>
 </p>
 
@@ -34,7 +34,7 @@
 
 <p align="center"  style="padding-bottom:10px">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,postman" />
+    <img src="https://skillicons.dev/icons?i=vscode,idea,visualstudio,postman,git,github" />
   </a>
 </p>
 
