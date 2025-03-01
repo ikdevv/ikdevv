@@ -1,7 +1,5 @@
 <h2 align="center">Hi 👋, I'm ikdevv</h2>
-<p align="center">
-  <img src="profile-pic.png" alt="ikdevv" width="150px" style="border-radius: 50%;"/>
-</p>
+
 <p align="center">👨‍💻 Software Developer | 💻 Web Application Enthusiast | 🚀 Always Learning</p>
 
 <p align="center">
